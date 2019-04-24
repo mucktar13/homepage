@@ -1,8 +1,8 @@
 # cryptoeconomiclabs.com
-text
+This is the source code for the [cryptoeconomicslab.com](https://www.cryptoeconomicslab.com) homepage
 
 ## About
-text
+Cryptoeconomics Lab is a team of distributed entrepreneurs, engineers, and blockchain experts.
 
 ## Features
 - Dynamic routing with [express](https://github.com/expressjs/express) and [next-routes](https://github.com/fridays/next-routes).
