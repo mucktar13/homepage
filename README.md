@@ -15,8 +15,8 @@ Cryptoeconomics Lab is a team of distributed entrepreneurs, engineers, and block
 
 ## Getting started
 ```
-git clone https://github.com/CodementorIO/nextjs-redux-starter my-project
-cd my-project
+git clone https://github.com/cryptoeconomicslab/homepage.git homepage
+cd homepage
 yarn install
 yarn start
 ```
